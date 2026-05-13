@@ -227,3 +227,7 @@ class GeminiException implements Exception {
   @override
   String toString() => 'GeminiException: $statusCode - $message';
 }
+
+
+
+

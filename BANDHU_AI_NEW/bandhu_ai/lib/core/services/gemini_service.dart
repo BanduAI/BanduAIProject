@@ -54,3 +54,7 @@ class GeminiService {
   Dio get dio => _dio;
   String get authApiKey => apiKey;
 }
+
+
+
+

@@ -200,3 +200,7 @@ class _VoiceActivationIndicatorState extends State<VoiceActivationIndicator>
     );
   }
 }
+
+
+
+
